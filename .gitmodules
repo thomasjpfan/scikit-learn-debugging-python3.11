@@ -1,0 +1,6 @@
+[submodule "scikit-learn"]
+	path = scikit-learn
+	url = https://github.com/scikit-learn/scikit-learn
+[submodule "cpython"]
+	path = cpython
+	url = https://github.com/python/cpython
