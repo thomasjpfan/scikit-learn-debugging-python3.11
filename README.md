@@ -9,7 +9,7 @@ git submodule update --init
 # Build Python v3.11.0rc2
 pushd cpython
 ./configure
-# If you want to debug symbols
+# If you want debug symbols
 # ./configure --with-pydebug
 make -j8
 popd
