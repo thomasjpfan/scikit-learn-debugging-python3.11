@@ -1,4 +1,4 @@
-# scikit-learn Debugging Python 3.11
+# scikit-learn Debugging Python 3.11 on Linux
 
 This are instructions for debugging for Linux.
 
